@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://dctblog.xyz</loc>
+        <lastmod>2021-4-3</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://dctblog.xyz/#/post/25</loc>
+        <lastmod>2021-3-28</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://dctblog.xyz/#/post/24</loc>
+        <lastmod>2021-3-13</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://dctblog.xyz/#/post/19</loc>
+        <lastmod>2021-3-7</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    <url>
+        <loc>https://dctblog.xyz/#/post/22</loc>
+        <lastmod>2021-3-9</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+</urlset>
